@@ -10,6 +10,11 @@ A modern, full-stack crowdfunding platform designed for developer . Fans and sup
 
 ---
 
+## 🚀 Live Demo: https://buy-me-a-headphones.vercel.app
+
+---
+
+
 ## 📌 Project Overview
 
 **Buy Me a Headphone** is a developer support platform built on top of **Next.js**, **NextAuth.js**, **MongoDB**, and **Tailwind CSS**. It allows users to register via GitHub OAuth, build a personalized your page, pay money and track all supporters in real-time.
